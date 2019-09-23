@@ -1,0 +1,14 @@
+h1 {
+   color: #CC0000;
+}
+
+#courseInfo {
+   width: 33%;
+}
+#courseInfo : h2 {
+   color: #808080;
+}
+
+p {
+   color: #000000;
+}
