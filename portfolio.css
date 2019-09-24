@@ -2,13 +2,25 @@ h1 {
    color: #CC0000;
 }
 
-#courseInfo {
-   width: 33%;
-}
-#courseInfo : h2 {
+h2 {
    color: #808080;
 }
 
 p {
    color: #000000;
+}
+
+#courseInfo {
+   width: 33%;
+}
+
+#prevWork {
+   width 100%;
+   display block;
+   float left;
+}
+
+#prevWork > p {
+   display block;
+   float right;
 }
